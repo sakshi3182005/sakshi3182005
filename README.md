@@ -13,7 +13,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshi3182005=ryo-ma&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshi3182005&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 <!--
 **sakshi3182005/sakshi3182005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
