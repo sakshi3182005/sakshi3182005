@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm Sakshi — a passionate developer constantly l
 ## 🌈 Activity Highlights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sakshi3182005/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="GitHub Profile 3D Contributions" />
+  <img src="![](./profile-3d-contrib/profile-green-animate.svg)"/>
 </div>
 
 ---
