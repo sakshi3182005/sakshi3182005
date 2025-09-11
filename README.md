@@ -70,8 +70,6 @@ Welcome to my GitHub profile! I'm Sakshi — a passionate developer constantly l
 
 ---
 
-⭐️ Don’t forget to star your favorite repositories and follow for more updates!
-
 # Sakshi — AIML Student (3rd Year) 👩‍🎓
 
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=for-the-badge)](https://github.com/your-github-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin) [![Mail](https://img.shields.io/badge/Email-sakshi%40example.com-lightgrey?style=for-the-badge)](mailto:sakshi@example.com)
@@ -108,6 +106,23 @@ I am a 3rd year **B.E. (Artificial Intelligence & Machine Learning)** student fr
 | DL | PyTorch, TensorFlow, Transfer Learning | ✅✅✅ |
 | Quantum | Qiskit, Cirq, PQCs, VQE, VQC | ✅✅ |
 | Math | Linear Algebra, Probability, Optimization | ✅✅✅ |
+
+---
+
+## 📊 GitHub Analytics & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
