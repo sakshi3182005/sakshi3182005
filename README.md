@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm Sakshi — a passionate developer constantly l
 
 # Sakshi — AIML Student (3rd Year) 👩‍🎓
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=for-the-badge)](https://github.com/your-github-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin) [![Mail](https://img.shields.io/badge/Email-sakshi%40example.com-lightgrey?style=for-the-badge)](mailto:sakshi@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/sakshi3182005?label=Follow&style=for-the-badge)](https://github.com/sakshi3182005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/saakshi3182005) [![Mail](https://img.shields.io/badge/Email-saakshi3182005%40gmail.com-lightgrey?style=for-the-badge)](mailto:saakshi3182005@gmail.com)
 
 > **Current goal:** Working on *Quantum Machine Learning* — building hybrid quantum-classical models and investigating variational algorithms.
 
